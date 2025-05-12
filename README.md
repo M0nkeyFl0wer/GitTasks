@@ -1,5 +1,7 @@
 # GitTasks
 
+⚠️ Early concept: This is an idea for a self-hosted planning assistant, not a finished product. Feedback, questions, or collaboration ideas are welcome—open an issue or start a conversation.
+
 **GitTasks** is a lightweight, open-source task manager built around GitHub Issues. It turns your repos into usable to-do lists that actually work on your phone, offline, or with your favorite Markdown setup.
 
 This project is the foundation of a broader open productivity system: it's the **task layer**. Not some all-in-one monster app—just a clean, focused tool for wrangling what needs doing.
