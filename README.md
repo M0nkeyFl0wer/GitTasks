@@ -69,7 +69,7 @@ See [open issues](https://github.com/M0nkeyFl0wer/GitTasks/issues) for stuff tha
 If GitTasks helps you ship and stay focused:
 
 **Ko-fi:** [ko-fi.com/yourname](https://ko-fi.com/yourname)  
-**Bluesky:** `https://bsky.app/profile/benwest.bsky.socia
+**Bluesky:** `https://bsky.app/profile/benwest.bsky.social'
 
 Spare change = more time to build cool stuff instead of chasing contracts.
 
