@@ -26,14 +26,7 @@ GitTasks respects the repo as source of truth, but gives you a better way to int
 
 ---
 
-## Absolutely—great catch. That line implies too much about AI being the product when it should be subtle infrastructure.
-
-Here’s an updated version of that section with the “AI as plumbing” ethos applied:
-
-
----
-
-What It Works With
+## What It Works With
 
 Schedulr: a local-first planning companion that helps turn tasks into time blocks using simple prompts and natural language tools
 
@@ -68,7 +61,7 @@ See [open issues](https://github.com/M0nkeyFl0wer/GitTasks/issues) for stuff tha
 
 If GitTasks helps you ship and stay focused:
 
-**Ko-fi:** [ko-fi.com/yourname](https://ko-fi.com/yourname)  
+**Ko-fi:** [ko-fi.com/yourname](https://ko-fi.com/benwest)  
 **Bluesky:** `https://bsky.app/profile/benwest.bsky.social'
 
 Spare change = more time to build cool stuff instead of chasing contracts.
