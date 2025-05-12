@@ -26,12 +26,22 @@ GitTasks respects the repo as source of truth, but gives you a better way to int
 
 ---
 
-## What It Works With
+## Absolutely—great catch. That line implies too much about AI being the product when it should be subtle infrastructure.
 
-- [Schedulr](https://github.com/M0nkeyFl0wer/Schedulr): our local-first, AI-powered time-blocking assistant
-- GitHub CLI, Markdown files, Obsidian vaults
-- Nextcloud Tasks or CalDAV servers
-- Offline-first workflows (works great on Termux or mobile)
+Here’s an updated version of that section with the “AI as plumbing” ethos applied:
+
+
+---
+
+What It Works With
+
+Schedulr: a local-first planning companion that helps turn tasks into time blocks using simple prompts and natural language tools
+
+GitHub CLI, Markdown files, and Obsidian vaults
+
+Nextcloud Tasks or any CalDAV-compatible calendar
+
+Offline-first workflows (Termux/mobile-friendly)
 
 ---
 
@@ -60,7 +70,7 @@ If GitTasks helps you ship and stay focused:
 
 **ETH:** `0xYourAddressHere`  
 **Ko-fi:** [ko-fi.com/yourname](https://ko-fi.com/yourname)  
-**Bluesky:** `@yourhandle.bsky.social`
+**Bluesky:** `https://bsky.app/profile/benwest.bsky.social'
 
 Spare change = more time to build cool stuff instead of chasing contracts.
 
